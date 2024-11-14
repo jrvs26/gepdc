@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/gepdc/static/css/main.fb09c115.css",
+    "main.js": "/gepdc/static/js/main.89a59596.js",
+    "static/js/453.2cdc76e4.chunk.js": "/gepdc/static/js/453.2cdc76e4.chunk.js",
+    "static/media/global_logo.png": "/gepdc/static/media/global_logo.97cf2d575b5d5239d64a.png",
+    "static/media/giga.jpg": "/gepdc/static/media/giga.d93c978010d66802106f.jpg",
+    "static/media/sspc.jpg": "/gepdc/static/media/sspc.ed2fed56d64ce6f05bb8.jpg",
+    "static/media/404-computer.svg": "/gepdc/static/media/404-computer.4759481cd4357b78c68c4c7de7332920.svg",
+    "static/media/dspp.jpg": "/gepdc/static/media/dspp.b1f7927eae2757b717ab.jpg",
+    "static/media/sanildefonso.png": "/gepdc/static/media/sanildefonso.583548551ed99a931191.png",
+    "static/media/sanildefonso2.jpg": "/gepdc/static/media/sanildefonso2.4ba5f9235d6621bec7bc.jpg",
+    "static/media/office.jpg": "/gepdc/static/media/office.27bc04d4bc7b047b84d3.jpg",
+    "static/media/sanildefonso3.jpg": "/gepdc/static/media/sanildefonso3.d75268cc517d0db5e036.jpg",
+    "static/media/equipment.jpg": "/gepdc/static/media/equipment.a4f2d58f67e23c9a2094.jpg",
+    "static/media/motorpool.jpg": "/gepdc/static/media/motorpool.e3eb331ff4cee9f620fb.jpg",
+    "static/media/sanildefonso4.png": "/gepdc/static/media/sanildefonso4.9993770bf28a1d4d1842.png",
+    "static/media/staff.jpg": "/gepdc/static/media/staff.3336165ca52e53512d81.jpg",
+    "index.html": "/gepdc/index.html",
+    "main.fb09c115.css.map": "/gepdc/static/css/main.fb09c115.css.map",
+    "main.89a59596.js.map": "/gepdc/static/js/main.89a59596.js.map",
+    "453.2cdc76e4.chunk.js.map": "/gepdc/static/js/453.2cdc76e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb09c115.css",
+    "static/js/main.89a59596.js"
+  ]
+}
