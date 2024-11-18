@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/gepdc/static/css/main.7c584c65.css",
-    "main.js": "/gepdc/static/js/main.15536d1e.js",
+    "main.css": "/gepdc/static/css/main.219d9b42.css",
+    "main.js": "/gepdc/static/js/main.58db74da.js",
     "static/js/453.2cdc76e4.chunk.js": "/gepdc/static/js/453.2cdc76e4.chunk.js",
     "static/media/global_logo.png": "/gepdc/static/media/global_logo.97cf2d575b5d5239d64a.png",
     "static/media/giga.jpg": "/gepdc/static/media/giga.d93c978010d66802106f.jpg",
+    "static/media/dspp1.jpg": "/gepdc/static/media/dspp1.e3058286362e86ca59ba.jpg",
     "static/media/sspc.jpg": "/gepdc/static/media/sspc.ed2fed56d64ce6f05bb8.jpg",
     "static/media/404-computer.svg": "/gepdc/static/media/404-computer.4759481cd4357b78c68c4c7de7332920.svg",
     "static/media/dspp.jpg": "/gepdc/static/media/dspp.b1f7927eae2757b717ab.jpg",
@@ -17,12 +18,12 @@
     "static/media/sanildefonso4.png": "/gepdc/static/media/sanildefonso4.9993770bf28a1d4d1842.png",
     "static/media/staff.jpg": "/gepdc/static/media/staff.3336165ca52e53512d81.jpg",
     "index.html": "/gepdc/index.html",
-    "main.7c584c65.css.map": "/gepdc/static/css/main.7c584c65.css.map",
-    "main.15536d1e.js.map": "/gepdc/static/js/main.15536d1e.js.map",
+    "main.219d9b42.css.map": "/gepdc/static/css/main.219d9b42.css.map",
+    "main.58db74da.js.map": "/gepdc/static/js/main.58db74da.js.map",
     "453.2cdc76e4.chunk.js.map": "/gepdc/static/js/453.2cdc76e4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c584c65.css",
-    "static/js/main.15536d1e.js"
+    "static/css/main.219d9b42.css",
+    "static/js/main.58db74da.js"
   ]
 }
