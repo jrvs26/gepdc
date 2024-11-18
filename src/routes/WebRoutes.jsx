@@ -9,7 +9,7 @@ import NotFound from '../views/NotFound';
 function WebRoutes() {
   return (
     <Routes>
-      <Route path="/gepdc" element={<Navigate to="/gepdc/home" />} />
+      <Route path="/gepdc/" element={<Navigate to="/gepdc/home" />} />
       <Route path="/gepdc/home" element={<Home />} />
       <Route path="/gepdc/about" element={<About />} />
       <Route path="/gepdc/contact" element={<Contact />} />
